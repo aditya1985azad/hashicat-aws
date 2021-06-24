@@ -7,9 +7,3 @@ module "s3_bucket" {
   versioning = {
     enabled = true
   }
-
-<<<<<<< HEAD
-}
-=======
-}
->>>>>>> bbde183b9afd44f7730f4c5dbed6472f1f8ab297
