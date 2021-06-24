@@ -11,7 +11,11 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
+<<<<<<< HEAD
   Welcome to ${PREFIX}'s app. Make it awesome !
+=======
+  Welcome to my first webapp on terraform cloud ${PREFIX}'s app. This is just a test app for aditya-training repo.
+>>>>>>> bbde183b9afd44f7730f4c5dbed6472f1f8ab297
   <!-- END -->
 
   </div>
